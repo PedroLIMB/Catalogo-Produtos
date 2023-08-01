@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+}
+header{
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+header .titulo{
+    margin: 5px;
+    margin-left: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+header .menu{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 40px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.produtos{
+    margin: 30px;
+    font-size: 17px;
+}
+.container{
+    background-color: rgb(197, 197, 197);
+}
+.calamidade{
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+}
+.desconjuração{
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;  
+}
+.osni{
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+}
+.sdol{
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    margin: 10px;
+    margin-top: 20px;
+}
+.container h4{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+.container div{
+    padding: 20px;
+    padding-bottom: 30px;
+    background-color: white;
+    border-radius: 15px;
+    border: solid;
+}
+.container p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container input{
+    background-color: orange;
+    border: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    width: 225px;
+}
+img{
+    border-radius: 15px;
+}
