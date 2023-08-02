@@ -28,7 +28,7 @@ header .menu{
     padding: 30px;
     margin: 0;
     font-size: 17px;
-    background-image: linear-gradient(to left, rgb(54, 54, 54), orange);
+    background-color: orange;
     font-size: 20px;
     color: white;
 }
