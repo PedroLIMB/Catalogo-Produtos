@@ -81,7 +81,7 @@ p{
 .container p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.container input{
+.container button{
     background-color: orange;
     border: transparent;
     border-radius: 10px;
